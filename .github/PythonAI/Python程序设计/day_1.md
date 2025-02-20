@@ -1,12 +1,13 @@
 <div align="center">
     <h1>实用《Python程序设计》（一）</h1>
 </div>
-### 常用工具
 
-​	python3：https://www.python.org/downloads/
-  pyCharm：https://www.jetbrains.com/zh-cn/pycharm/download/?section=windows
-  Sublime：https://www.sublimetext.com/download
-  Visual Studio Code：https://code.visualstudio.com/Download
+
+### 常用工具
+python3：https://www.python.org/downloads/
+pyCharm：https://www.jetbrains.com/zh-cn/pycharm/download/?section=windows
+Sublime：https://www.sublimetext.com/download
+Visual Studio Code：https://code.visualstudio.com/Download
 
 ### 符号和注释
 
