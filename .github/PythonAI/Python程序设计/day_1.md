@@ -1,7 +1,6 @@
----
-title: 实用《Python程序设计》（一）
-date: 2025-02-20
----
+<div align="center">
+    <h1>实用《Python程序设计》（一）</h1>
+</div>
 ### 常用工具
 
 ​	python3：https://www.python.org/downloads/
