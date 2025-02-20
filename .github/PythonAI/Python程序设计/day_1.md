@@ -1,4 +1,8 @@
-###常用工具
+---
+title: 实用《Python程序设计》（一）
+date: 2025-02-20
+---
+### 常用工具
 
 ​	python3：https://www.python.org/downloads/
   pyCharm：https://www.jetbrains.com/zh-cn/pycharm/download/?section=windows
