@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 <div align="center">
     <h1>🌟 知识驿站 | Knowledge Hub 🌟</h1>
     <h3>🚀 探索 • 学习 • 分享 | Explore • Learn • Share 🚀</h3>
@@ -8,7 +5,7 @@ title: Welcome to my blog
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Flamesusr&fontSize=80)
 
-### 👋 你好，世界！| Hello World!
+### 👋 你好，朋友！| Hello Friend!
 
 欢迎来到我的知识驿站！这里是我的个人学习资料库，专注于网络技术、Python编程和网络安全领域。
 Welcome to my Knowledge Hub! This is my personal study repository focusing on networking, Python programming, and cybersecurity.
