@@ -36,7 +36,7 @@ Welcome to my Knowledge Hub! This is my personal study repository focusing on ne
 
 ### 📚 最新博客 | Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 💡 [[Python进阶技巧分享]][(https://github.com/flamesusr/Individual_learning/tree/main/.github/PythonAI]
+- 💡 [[[Python进阶技巧分享]](https://github.com/flamesusr/Individual_learning/tree/main/.github/PythonAI)
 - 🔐 [网络安全实践指南]
 - 🌐 [网络协议深度解析]
 <!-- BLOG-POST-LIST:END -->
