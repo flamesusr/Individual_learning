@@ -1,6 +1,10 @@
 theme: minima
-title:「CodeSphere Hub｜Networking×Python×Cybersecurity Lab」
-title:「码学智库｜网络×Python×网安研习站」
-author:Flamesusr
-Description: A personal tech learning repository featuring curated notes on network architectures,Python coding mastery, and cybersecurity defense strategies. Explore interactive tutorials,vulnerability labs, and open-source toolkits to empower your digital journey.
-description:个人数字学习资料库，专注网络技术探索、Python编程实践与网络安全攻防笔记。收录系统化知识图谱、实战技巧与开源资源，助你高效构建技术护城河
+title: 'CodeSphere Hub｜Networking×Python×Cybersecurity Lab'
+author: Flamesusr
+description: >
+  A personal tech learning repository featuring curated notes on network architectures,
+  Python coding mastery, and cybersecurity defense strategies. Explore interactive tutorials,
+  vulnerability labs, and open-source toolkits to empower your digital journey.
+  Personal digital learning repository, focusing on network technology exploration,
+  Python programming practice, and cybersecurity attack and defense notes.
+  Compiled systematic knowledge maps, practical skills, and open-source resources to help you efficiently build a technical moat.
